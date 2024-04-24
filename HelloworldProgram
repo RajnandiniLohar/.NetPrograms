@@ -1,0 +1,10 @@
+namespace FirstProgram
+{
+internal class program
+{
+static void main(String[] args)
+{
+Console.Writeline("Hello world");
+}
+}
+}
