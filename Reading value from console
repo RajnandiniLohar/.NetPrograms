@@ -1,0 +1,10 @@
+using system;
+class Program{
+  static void main(string[] args)
+  {
+    Console.Writeline("Enter your name");
+    string username=Console.Readline();
+    Console.Writeline("Hello"+username);................COncatination method
+     Console.Writeline("Hello {0},username);........................place holder methd
+}
+}
