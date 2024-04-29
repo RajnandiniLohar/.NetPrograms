@@ -1,0 +1,15 @@
+namespace Onedarray
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+           // int[] arr = new int[5];
+            int [] arr = { 10, 20, 15, 40, 35};
+            for(int i = 0; i < arr.Length; i++)
+            {
+                Console.Write(arr[i]);
+            }
+        }
+    }
+}
